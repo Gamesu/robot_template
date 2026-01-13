@@ -1,0 +1,1 @@
+# Se usa para procesamiento de funciones sencillas
